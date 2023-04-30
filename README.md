@@ -1,4 +1,4 @@
-# Churn-Prediction-system
+# Churn-Prediction-system-using-Python-Power BI
 for a telecom company
 
 This is a Churn Prediction system which uses a fictious telecom company data for working. The dataset contains 7043 customers data with 20 potential predictors. The data are available in one data file with 7043 rows that combines the calibration and validation customers. “calibration” database consisting of 4000 customers and a “validation” database consisting of 3043 customers.
